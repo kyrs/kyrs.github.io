@@ -16,11 +16,11 @@ redirect_from:
 * I am a MS student in the [Computer Science Department](https://iiitb.ac.in/) at [IIIT - Bangalore](https://iiitb.ac.in/), advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
 * My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning, bayesian networks and probabilistic graphical models, as well as their applications in social psychology and image processing.
 
-* I received my Bachelor’s Degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). 
+* I received my Bachelor’s Degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
 
 # Recent News
 
-* 20 Feb 2020. Visited HEC-Laussane to work with [Dr. Marianne Schmid Mast](https://en.wikipedia.org/wiki/Marianne_Schmid_Mast) on application of AI in social psychology.
+* 20 Feb 2020. Visited HEC-Laussane, Switzerland to work with [Dr. Marianne Schmid Mast](https://en.wikipedia.org/wiki/Marianne_Schmid_Mast) on application of AI in social psychology.
 * 20 Nov 2019. Presented our work on [sign language genereation](https://www.youtube.com/watch?v=WsC9oyjJFY8) at [Bangalore Tech summit - 2019](https://www.bengalurutechsummit.com/).
 
 
