@@ -14,8 +14,9 @@ redirect_from:
 
 # About Me
 * I am a MS student in the [Computer Science Department](https://iiitb.ac.in/) at [IIIT - Bangalore](https://iiitb.ac.in/), advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning, bayesian networks and probabilistic graphical models, as well as their applications in social psychology and image processing.
 
+* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning, bayesian networks and probabilistic graphical models, as well as their applications in social psychology and image processing.
+* Before joining IIIT, I have worked for two year as a data scientist at [Dataweave](https://dataweave.com/). 
 * I received my Bachelor’s Degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
 
 # Recent News
