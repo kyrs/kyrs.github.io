@@ -4,12 +4,11 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-* **IEEE Special Scholarship** (Top 2 students in School of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2017
-* **Best Paper Award Honorable Mention of SIGIR 2017 ([Link](http://sigir.org/sigir2017/program/awards/))**. August 9, Tokyo, Japan. 2017.
-* **Microsoft Azure Research Award**, Carnegie Mellon University. 2017.
-* **Scholarship of Excellent Undergraduates** (Top 2 students in school of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2016-2017
-* **National Scholarship** (Top 3 students in Computer Science Department), Shanghai Jiao Tong University. 2015-2016.
-* **Overall GPA Ranking Top 3 out of 151 ([Link](http://lantaoyu.com/files/ranking.pdf))** (Sophomore GPA Ranking 1st/151), Department of Computer Science, Shanghai Jiao Tong University. 2014-2017.
-* **Zhiyuan Honors Scholarship** (Top 5%, Twice), Shanghai Jiao Tong University. 2015 & 2016.
-* **Yuan-Ze Scholarship** (Top 2%), Zhiyuan College, Shanghai Jiao Tong University. 2014-2015.
-* **First Prize** in China Undergraduate Mathematical Contest in Modeling, Shanghai Division. 2015
+
+* **counterfeit product detection at ecommerce marketplace**. was associated with the development of one of the most innovate AI application offered by Indian companies in 2018 [Nasscom - AI Game changer Award](https://community.nasscom.in/communities/iot-ai/nasscom-ai-game-changer-awards-best-50-innovative-applications-in-ai.html) as a data scientist in [Deataweave](https://dataweave.com/) few other links ([blog](https://news.developer.nvidia.com/how-ai-is-helping-consumer-brands-detect-and-eliminate-counterfeit-products/), [abstract](http://kyrs.github.io/files/counterfiet.pdf)) 
+
+* **Fifth Elephant - 2017 ([talk](https://www.youtube.com/watch?v=Gffq_S_od5E))**. Represented Dataweave software pvt ltd. at india's biggest data science developer summit. Bangalore. 2017
+* **Semi finalisist of Xerox Research Innovation challenge - 2015 ([details](https://www.hackerrank.com/xerox-research-innovation-challenge-2015/) [certificate](http://kyrs.github.io/files/xerox_certificate.jpeg) )**.  Our team of three members were runner-up of the online research competion organized by xerox research center - India, Bangalore, 2015.
+* **Semi finalisist of texas-instruments-innovation-challenge - 2015 ([video](https://www.youtube.com/watch?v=wbyoTp0O2eM)**.  Our team of three members were one of the top 80 semifinalist (out of 3000 participants) in TIIC-IDC. Delhi. 2015.
+* **Winner ([video](https://www.youtube.com/watch?v=UVAbqjEhVgA))**  of Jaipur Hackathon. Jaipur. 2015.
+
