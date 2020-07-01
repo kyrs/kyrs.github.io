@@ -4,7 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Multimodal Perception Lab, IIIT - Bangalore<br>
+26/C, Hosur Rd, Electronics City Phase 1,<br>
+Electronic City, Bengaluru, Karnataka 560100<br>
+Email: kumar.shubham [at] iiitb.org
 
