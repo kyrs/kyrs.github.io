@@ -9,16 +9,20 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://github.com/kyrs/kyrs.github.io/blob/master/images/shubham.jpg" alt="Photo" style="width: 450px;"/> 
+  <img src="https://raw.githubusercontent.com/kyrs/kyrs.github.io/master/images/shubham.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
 * I am a MS student in the [Computer Science Department](https://iiitb.ac.in/) at [IIIT - Bangalore](https://iiitb.ac.in/), advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning, Bayesian Networks and probabilistic graphical models, as well as their applications in social psychology and Image Processing.
+* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning, bayesian networks and probabilistic graphical models, as well as their applications in social psychology and image processing.
 
 * I received my Bachelor’s Degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). 
 
 # Recent News
+
+* 20 Feb 2020. Visited HEC-Laussane to work with [Dr. Marianne Schmid Mast](https://en.wikipedia.org/wiki/Marianne_Schmid_Mast) on application of AI in social psychology.
+* 20 Nov 2019. Presented our work on [sign language genereation](https://www.youtube.com/watch?v=WsC9oyjJFY8) at [Bangalore Tech summit - 2019](https://www.bengalurutechsummit.com/).
+
 
 <!-- * September 3, 2019. One paper accepted to NeurIPS 2019.
 * April 21, 2019. Three papers accepted to ICML 2019.
@@ -31,6 +35,7 @@ redirect_from:
 * April 11, 2017. A paper titled "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models" was accepted to [SIGIR 2017](http://sigir.org/sigir2017/).
 * February 4 - February 9, 2017. I attended the Thirty-First AAAI Conference on Artificial Intelligence held in San Francisco, California, US and gave a [talk](http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf) on applying adversarial training for generating sequential data.
 * November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted to [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php). -->
+
 
 <!-- # Academic Services
 * PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020. -->
