@@ -9,16 +9,18 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://github.com/kyrs/kyrs.github.io/blob/master/images/shubham.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+* I am a MS student in the [Computer Science Department](https://iiitb.ac.in/) at [IIIT - Bangalore](https://iiitb.ac.in/), advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
+* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning, Bayesian Networks and probabilistic graphical models, as well as their applications in social psychology and Image Processing.
+
+* I received my Bachelor’s Degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). 
 
 # Recent News
-* September 3, 2019. One paper accepted to NeurIPS 2019.
+
+<!-- * September 3, 2019. One paper accepted to NeurIPS 2019.
 * April 21, 2019. Three papers accepted to ICML 2019.
 * November 3, 2018. One paper accepted to AAAI 2019.
 * August 9, 2017. I won the [Best Paper Award Honorable Mention](https://lantaoyu.github.io/files/sigir17-award.jpg) at [SIGIR 2017](http://sigir.org/sigir2017/program/awards/).
@@ -28,7 +30,7 @@ redirect_from:
 * April 19, 2017. I gave a [talk](http://lantaoyu.com/files/2017-04-19-gans-for-ir.pdf) on applying adversarial training techniques for information retrieval at Apex Lab, Shanghai Jiao Tong University.
 * April 11, 2017. A paper titled "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models" was accepted to [SIGIR 2017](http://sigir.org/sigir2017/).
 * February 4 - February 9, 2017. I attended the Thirty-First AAAI Conference on Artificial Intelligence held in San Francisco, California, US and gave a [talk](http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf) on applying adversarial training for generating sequential data.
-* November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted to [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php).
+* November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted to [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php). -->
 
-# Academic Services
-* PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020.
+<!-- # Academic Services
+* PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020. -->
