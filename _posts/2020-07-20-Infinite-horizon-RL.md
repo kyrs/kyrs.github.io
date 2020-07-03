@@ -15,14 +15,14 @@ permalink: /posts/2020/07/infinite-horizon-RL/
 Reinforcement learning genreally involves maximizing the expected reward over a defined trajectory for a given problem. 
 $$
 \begin{align*}\\
-argmax_{\theta} E_{\tau \sim P(\theta)}[\sum_{t=0}^{t=k}r(s_{t},a_{t})\gamma^{t}]
+argmax_{\theta} E_{\tau \sim P(\theta)}[\sum_{t=0}^{t=k}r(s_{t},a_{t})]
 \\
 \end{align*}
 $$
 The length of the trajectory often termed as episode length is fixed for most of the problem and involves  multiple sampling from learnt policy to approximate expected reward for maximization. But often their are real life problems where the length of the trajectory can't be fixed. This problem often known as infinite horizon are quite unique and requires special handling. Compared to previously mentioned problem statement, here we want to maximize .
 $$
 \begin{align*}\\
-argmax_{\theta} E_{\tau \sim P(\theta)}[\sum_{t=0}^{t=\infty}r(s_{t},a_{t})\gamma^{t}]
+argmax_{\theta} E_{\tau \sim P(\theta)}[\sum_{t=0}^{t=\infty}r(s_{t},a_{t})]
 \\
 \end{align*}
 $$
@@ -86,10 +86,32 @@ Genereally, for problem where state space is huge, it's highly impractical to ca
 # Reinforcement learning as a markov chain
 a graphical representation of reinforcement learning genereally look something like this.
 
-![](https://kyrs.github.io/files/infnite-horizon/RL.png)
+![](https://kyrs.github.io/files/infnite-horizon/Rl.png)
 This graph can easily be approximated as a markov chain with given structure.
 ![](https://kyrs.github.io/files/infnite-horizon/RL_markov_chain.png)
 although the state transition operator doesn't have a closed form equation and infact is governed by environment.
+
+considering we have a mechanism to sample from the stationary distribution of the state, action pair. The overall RL objective over an infinite horizon can be defined as 
+
+$$
+\begin{align*}
+ argmax_{\theta} E_{(s_t,a_t) \sim P_\theta(s_t,a_t))}[r(s_{t},a_{t})] 
+ \end{align*}
+ $$ 
+
+
+
+where $$ P_\theta(s_t,a_t)$$ denotes the stationary distribution of the given markov chain. 
+
+For a fixed length episode this problem will take a form of  
+
+
+$$
+\begin{align*}
+ argmax_{\theta} E_{(s_t,a_t) \sim P_\theta(s_t,a_t))}[\sum_{t=0}^{t=k}r(s_{t},a_{t})] 
+ \end{align*}
+ $$ 
+
 
 
 <!-- $$
