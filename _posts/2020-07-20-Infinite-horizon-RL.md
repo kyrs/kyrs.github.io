@@ -39,12 +39,57 @@ In a laymen term a markov property states that, if for a sequence based problem 
 
 $$
 \begin{align*}\\
-P(st+1|s1,s2,s3 ... St) = P(st+1| st)\\
+P(s_{t+1}|s_{1},s_{2},s_{3} ... s_{t)} = P(s_{t+1}| s_{t})\\
 \end{align*}
 $$
 
 corrresponding graphical representation will look something like this.
-!()[https://kyrs.github.io/files/infnite-horizon/markov_chain.png].
+![](https://kyrs.github.io/files/infnite-horizon/markov_chain.png).
+
+# Ergodic markov chain
+Ergodic markov chain are a special type of markov chain which satisfy two important property :
+- **aperiodic :** If the highest common factor among all the cycles possible within a given graph is 1 then it is said to be aperiodic. One easy way to make any graph aperiodic is to have a self loop for each of the node or in other word a non zero probability to stay in same state i.e.
+
+$$
+\begin{align*}\\
+P(s_{t+1} = s_{t}|s_{t)}) >0\\
+\end{align*}
+$$
+- **Fully connected :** a graph is said to be fully connected if there is a non zero probability for reaching any state from any other state through a arbitrary long or short path. 
+
+# stationary distribution
+A random walk over a markov chain which is ergodic in nature converges to a stationary distribution, defined over it's states. In other word, If you keep on running a markov chain for a very long duration then probability of it's visit to a given state is said to converge to a fixed value. 
+let's calculate the stationary probability for a defined small set of states. 
+let 
+
+$$\textit(S)$$ - state space 
+
+$$\textit(T)$$ - trainsition operator 
+
+$$\mu_{t,i}$$ - probability of being at $$i^{th}$$ state during $$t^{th}$$ transition $$ P(s_t = i)$$ 
+
+let $$\textit(T_{i,j}) =  P(s_{t+1} = i \mid s_{t} = j )$$ 
+
+Now the state probability distribution can be expressed as :
+$$
+ \overrightarrow{\mu_{t+1}}  = \textit(T_{i,j}) * \overrightarrow{\mu_{t}}
+$$
+
+on limit of $$t \rightarrow \infty$$ $$
+ \overrightarrow{\mu_{t}}  = \textit(T_{i,j}) * \overrightarrow{\mu_{t}}
+$$
+
+in such case $$ \overrightarrow{\mu_{t}} $$ is equivalent to principal eigen vector of $$\textit(T)$$ operator.
+
+Genereally, for problem where state space is huge, it's highly impractical to calculate the eigen vector for such a big transition operator and researcher genreally use MCMC algorithm for sampling and approximation of state space. 
+
+# Reinforcement learning as a markov chain
+a graphical representation of reinforcement learning genereally look something like this.
+
+![](https://kyrs.github.io/files/infnite-horizon/RL.png)
+This graph can easily be approximated as a markov chain with given structure.
+![](https://kyrs.github.io/files/infnite-horizon/RL_markov_chain.png)
+although the state transition operator doesn't have a closed form equation and infact is governed by environment.
 
 
 <!-- $$
