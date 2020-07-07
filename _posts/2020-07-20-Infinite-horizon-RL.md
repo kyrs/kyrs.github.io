@@ -20,7 +20,10 @@ argmax_{\theta} E_{\tau \sim P(\theta)}[\sum_{t=0}^{t=k}r(s_{t},a_{t})]
 \\
 \end{align*}
 $$
+
+
 One of the vital attributes in any RL problem is the length of the trajectory.  Often termed as episode length, it is the duration for which the Rl problem has to maximize the expected reward and is fixed for most of the problem. Nevertheless, there are real-life problems where one cannot put a limit over the length of the trajectory. This problem, often known as an infinite horizon, is unique and requires special handling. Compared to the standard RL problem statement, here we want to maximize the expected reward for infinite length objectives.  
+
 $$
 \begin{align*}\\
 argmax_{\theta} E_{\tau \sim P(\theta)}[\sum_{t=0}^{t=\infty}r(s_{t},a_{t})]
