@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am a MS student in the [Multimodal Perception Lab](http://www.mpl.iiitb.ac.in/?page_id=12) at [IIIT - Bangalore](https://www.iiitb.ac.in/), advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
+* I am a MS student in the [Multimodal Perception Lab](http://mpl.iiitb.ac.in/?page_id=12) at [IIIT - Bangalore](https://www.iiitb.ac.in/), advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
 
 * My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning, bayesian networks and probabilistic graphical models, as well as their applications in social psychology and image processing.
 * Before joining IIIT, I have worked for two year as a data scientist at [Dataweave](https://dataweave.com/). 
