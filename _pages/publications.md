@@ -5,10 +5,9 @@ author_profile: true
 ---
 <br>
 <b>[Conventional and Non-conventional Job Interviewing Methods: A Comparative Study in Two Countries](https://dl.acm.org/doi/abs/10.1145/3382507.3418824)</b> <br> 
-
 <b>Kumar Shubham</b>, Emmanuelle Patricia Kleinlogel, Anaïs Butera, Marianne Schmid Mast
-Dinesh Babu Jayagopi><br>
-<b><i>Conference : International conference on Multimodal Interaction</i>. 2020.</b>.
+Dinesh Babu Jayagopi<br>
+<b><i>Conference : International Conference on Multimodal Interaction(ICMI)</i>. 2020.</b>.
 
 
 <b>[A regularization on Lagrangian twin support vector regression](https://link.springer.com/article/10.1007/s13042-015-0361-6)</b> <br> 
