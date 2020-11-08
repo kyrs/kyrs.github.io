@@ -20,11 +20,12 @@ redirect_from:
 * I received my Bachelor’s Degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
 
 # Recent News
+*2 Nov 2020. one paper accepted in IVSP 2021.
 * 8 Aug 2020. One paper accepted in ICMI 2020.
 * 20 Feb 2020. Visited HEC-Laussane, Switzerland to work with [Dr. Marianne Schmid Mast](https://en.wikipedia.org/wiki/Marianne_Schmid_Mast) on application of AI in social psychology.
 * 20 Nov 2019. Presented our work on [sign language genereation](https://www.youtube.com/watch?v=WsC9oyjJFY8) at [Bangalore Tech Summit - 2019](https://www.bengalurutechsummit.com/).
-
-
+# Academic Services
+* PC member / Reviewer: WACV 2020.
 <!-- * September 3, 2019. One paper accepted to NeurIPS 2019.
 * April 21, 2019. Three papers accepted to ICML 2019.
 * November 3, 2018. One paper accepted to AAAI 2019.
@@ -37,6 +38,3 @@ redirect_from:
 * February 4 - February 9, 2017. I attended the Thirty-First AAAI Conference on Artificial Intelligence held in San Francisco, California, US and gave a [talk](http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf) on applying adversarial training for generating sequential data.
 * November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted to [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php). -->
 
-
-<!-- # Academic Services
-* PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020. -->
