@@ -24,6 +24,7 @@ redirect_from:
 * 8 Aug 2020. One paper accepted in ICMI 2020.
 * 20 Feb 2020. Visited HEC-Laussane, Switzerland to work with [Dr. Marianne Schmid Mast](https://en.wikipedia.org/wiki/Marianne_Schmid_Mast) on application of AI in social psychology.
 * 20 Nov 2019. Presented our work on [sign language genereation](https://www.youtube.com/watch?v=WsC9oyjJFY8) at [Bangalore Tech Summit - 2019](https://www.bengalurutechsummit.com/).
+
 # Academic Services
 * Reviewer: WACV 2020.
 
