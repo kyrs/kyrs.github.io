@@ -8,6 +8,7 @@ author_profile: true
 <b>[Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation](https://arxiv.org/abs/2011.00954)</b> <br> 
 <b>Kumar Shubham</b>, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan<br>
 <b><i>Preprint : arXiv preprint arXiv:2011.00954</i>. 2020</b>.
+
 <b>[Conventional and Non-conventional Job Interviewing Methods: A Comparative Study in Two Countries](https://dl.acm.org/doi/abs/10.1145/3382507.3418824)</b> <br> 
 <b>Kumar Shubham</b>, Emmanuelle Patricia Kleinlogel, Anaïs Butera, Marianne Schmid Mast
 Dinesh Babu Jayagopi<br>
