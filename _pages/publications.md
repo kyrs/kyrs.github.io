@@ -13,6 +13,7 @@ author_profile: true
 <b>Kumar Shubham</b>, Emmanuelle Patricia Kleinlogel, Anaïs Butera, Marianne Schmid Mast
 Dinesh Babu Jayagopi<br>
 <b><i>Conference : International Conference on Multimodal Interaction(ICMI)</i>. 2020</b>.
+
 <b>[A regularization on Lagrangian twin support vector regression](https://link.springer.com/article/10.1007/s13042-015-0361-6)</b> <br> 
 Muhammad Tanveer,<b> Kumar Shubham</b><br>
 <b><i>Journal : International Journal of Machine Learning and Cybernetics</i>. 2017. impact factor : 4.08 (2018)</b>.
