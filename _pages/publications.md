@@ -5,9 +5,13 @@ author_profile: true
 ---
 <br>
 
+<b>[Hybrid Unsupervised and Supervised Multitask Learning For Speech Recognition in Low Resource Languages](https://homepages.inf.ed.ac.uk/htang2/sigml/mlslp2021/index.html)</b> <br> 
+ K.M Srinivasa Raghavan, <b>Kumar Shubham</b><br>
+<b><i> Workshop on Machine Learning in Speech and Language Processing(MLSLP), Interspeech</i>. 2021</b>.
+
 <b>[Learning a Deep Reinforcement Learning Policy Over the Latent Space of a Pre-trained GAN for Semantic Age Manipulation](https://arxiv.org/abs/2011.00954)</b> <br> 
 <b>Kumar Shubham</b>, Gopalakrishnan Venkatesh, Reijul Sachdev, Akshi, Dinesh Babu Jayagopi, G. Srinivasaraghavan<br>
-<b><i>Preprint : arXiv preprint arXiv:2011.00954</i>. 2020</b>.
+<b><i>International Joint Conference on Neural Network(IJCNN) </i>. 2021</b>.
 
 <b>[Conventional and Non-conventional Job Interviewing Methods: A Comparative Study in Two Countries](https://dl.acm.org/doi/abs/10.1145/3382507.3418824)</b> <br> 
 <b>Kumar Shubham</b>, Emmanuelle Patricia Kleinlogel, Anaïs Butera, Marianne Schmid Mast
