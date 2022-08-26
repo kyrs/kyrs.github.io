@@ -13,13 +13,16 @@ redirect_from:
 </p>
 
 # About Me
-* I am a MS student in the [Multimodal Perception Lab](http://mpl.iiitb.ac.in/) at [IIIT - Bangalore](https://www.iiitb.ac.in/), advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
-
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning, bayesian networks and probabilistic graphical models, as well as their applications in social psychology and image processing.
+* I am an PhD student in the Representation Learning Lab at [IISc - Bangalore](https://iisc.ac.in/), advised by Prof. [Prathosh A P](https://eecs.iisc.ac.in/people/prathosh-a-p/).
+* My research interests lie in the general area of machine learning, particularly in representation learning, reinforcement learning, bayesian networks and probabilistic graphical models, as well as their applications in social psychology, embodied conversational agents and image processing.
+* I recieved my Master by research degree from [IIIT - Bangalore](https://www.iiitb.ac.in/), where I was advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
 * Before joining IIIT, I have worked for two year as a data scientist at [Dataweave](https://dataweave.com/). 
-* I received my Bachelor’s Degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
+* I received my Bachelor’s degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
 
 # Recent News
+* 1 Aug 2022. Joined IISc Bangalore for PhD.
+* 17 July 2022. One paper accepted in ICMI 2022.
+* 27 Jun 2022. Successfully defended my master's thesis  on "AI for personnel psychology".
 * 10 Sept 2021.One paper accepted in CATS workshop@ICMI 2021.
 * 29 Jul 2021. One paper accepted in MLSLP workshop@Interspeech 2021. 
 * 10 Apr 2021. One paper accepted in IJCNN 2021.
