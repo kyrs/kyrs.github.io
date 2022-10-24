@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 * I am a PhD student in the Representation Learning Lab at [IISc - Bangalore](https://iisc.ac.in/), advised by Prof. [Prathosh A P](https://eecs.iisc.ac.in/people/prathosh-a-p/).
-* My research interests lie in the general area of machine learning, particularly in representation learning, reinforcement learning, bayesian networks and probabilistic graphical models, as well as their applications in social psychology, embodied conversational agents and image processing.
+* My research interests lie in the general area of machine learning, particularly in representation learning and its applications in social psychology, embodied conversational agents and image processing.
 * I recieved my Master by research degree from [IIIT - Bangalore](https://www.iiitb.ac.in/), where I was advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
 * Before joining IIIT, I have worked for two year as a data scientist at [Dataweave](https://dataweave.com/). 
 * I received my Bachelor’s degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
