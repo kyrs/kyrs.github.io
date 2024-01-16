@@ -20,6 +20,7 @@ redirect_from:
 * I received my Bachelor’s degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
 
 # Recent News
+* 9 Dec 2023. One paper accepted in AAAI 2024(A*).
 * 1 Aug 2022. Joined IISc Bangalore for PhD.
 * 17 July 2022. One paper accepted in ICMI 2022.
 * 27 Jun 2022. Successfully defended my master's thesis  on "AI for personnel psychology".
