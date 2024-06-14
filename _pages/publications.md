@@ -9,6 +9,9 @@ author_profile: true
 <b>[Fusing Conditional Submodular GAN and Programmatic Weak Supervision](https://ojs.aaai.org/index.php/AAAI/article/view/29423/30685)</b> <br> 
 <b>Kumar Shubham</b>, Pranav Sastry, AP Prathosh <br><b><i> AAAI(Main Track)</i>. 2024</b> <br>
 
+<b>[Bayesian Pseudo-Coresets via Contrastive Divergence](https://ojs.aaai.org/index.php/AAAI/article/view/29423/30685)</b> <br> 
+Piyush Tiwary, <b>Kumar Shubham</b>, Vivek Kashyap, Prathosh AP <br><b><i> Uncertainty in Artificial Intelligence (UAI)</i>. 2024</b> <br>
+
 <b>[A deepfake-based study on facial expressiveness and social outcomes](https://www.nature.com/articles/s41598-024-53475-5)</b> <br> 
  Laetitia A Renier, <b>Kumar Shubham</b>, Rahil Satyanarayan Vijay, Swasti Shreya Mishra, Emmanuelle P Kleinlogel,<br> Dinesh Babu Jayagopi, Marianne Schmid Mast <br><b><i> Scientific Report, Nature Portfolio</i>. 2023</b> <br>
  
