@@ -3,8 +3,15 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<br>
+<b>[WISER: Weak Supervision and Supervised Representation Learning to Improve Drug Response Prediction in Cancer](https://icml.cc/virtual/2024/poster/34824)</b> <br> 
+<b>Kumar Shubham</b>, Aishwarya Jayagopal, Syed Danish, Prathosh AP · Vaibhav Rajan<br><b><i> International Conference on Macine Learning(ICML)</i>. 2024</b> <br>
 
+<b>[Fusing Conditional Submodular GAN and Programmatic Weak Supervision](https://ojs.aaai.org/index.php/AAAI/article/view/29423/30685)</b> <br> 
+<b>Kumar Shubham</b>, Pranav Sastry, AP Prathosh <br><b><i> AAAI(Main Track)</i>. 2024</b> <br>
+
+<b>[A deepfake-based study on facial expressiveness and social outcomes](https://www.nature.com/articles/s41598-024-53475-5)</b> <br> 
+ Laetitia A Renier, <b>Kumar Shubham</b>, Rahil Satyanarayan Vijay, Swasti Shreya Mishra, Emmanuelle P Kleinlogel,<br> Dinesh Babu Jayagopi, Marianne Schmid Mast <br><b><i> Scientific Report, Nature Portfolio</i>. 2023</b> <br>
+ 
 <b>[Hybrid Unsupervised and Supervised Multitask Learning For Speech Recognition in Low Resource Languages](https://homepages.inf.ed.ac.uk/htang2/sigml/mlslp2021/index.html)</b> <br> 
  K.M Srinivasa Raghavan, <b>Kumar Shubham</b><br>
 <b><i> Workshop on Machine Learning in Speech and Language Processing(MLSLP), Interspeech</i>. 2021</b>.
