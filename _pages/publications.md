@@ -13,7 +13,7 @@ author_profile: true
 Piyush Tiwary, <b>Kumar Shubham</b>, Vivek Kashyap, Prathosh AP <br><b><i> Uncertainty in Artificial Intelligence (UAI)</i>. 2024</b> <br>
 
 <b>[A deepfake-based study on facial expressiveness and social outcomes](https://www.nature.com/articles/s41598-024-53475-5)</b> <br> 
- Laetitia A Renier, <b>Kumar Shubham</b>, Rahil Satyanarayan Vijay, Swasti Shreya Mishra, Emmanuelle P Kleinlogel,<br> Dinesh Babu Jayagopi, Marianne Schmid Mast <br><b><i> Scientific Report, Nature </i>. 2023</b> <br>
+ Laetitia A Renier, <b>Kumar Shubham</b>, Rahil Satyanarayan Vijay, Swasti Shreya Mishra, Emmanuelle P Kleinlogel,<br> Dinesh Babu Jayagopi, Marianne Schmid Mast <br><b><i>Scientific Report, Nature Portfolio</i>. 2023</b> <br>
  
 <b>[Hybrid Unsupervised and Supervised Multitask Learning For Speech Recognition in Low Resource Languages](https://homepages.inf.ed.ac.uk/htang2/sigml/mlslp2021/index.html)</b> <br> 
  K.M Srinivasa Raghavan, <b>Kumar Shubham</b><br>
