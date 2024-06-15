@@ -4,7 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-
+* **Horizon - 2024 ([media](https://raw.githubusercontent.com/kyrs/kyrs.github.io/master/images/horizon.jpeg))** Work on deepfakes was covered by Horizons - The Swiss Research Magazine published by Swiss National Science Foundation SNSF . Laussane. 2024.
 * **Nasscom AI game changer Award - 2018 ([Detail](https://kyrs.github.io/files/nasscom-ai-primer-2018.pdf), [abstract](http://kyrs.github.io/files/counterfiet.pdf))**. As a data scientist at [Dataweave](https://dataweave.com/) , we a team of two members bagged the award for one of the most innovative AI solutions offered by Indian companies. Bangalore. 2018. 
 
 * **Fifth Elephant - 2017 ([talk](https://www.youtube.com/watch?v=Gffq_S_od5E))** Represented Dataweave software pvt ltd. at India's biggest data science developer summit. Bangalore. 2017
