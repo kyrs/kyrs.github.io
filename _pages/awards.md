@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* **Nasscom AI game changer Award - 2018 ([Detail](https://www.nasscom.in/knowledge-center/publications/top-50-ai-game-changers-compendium-best-ai-solutions-use-cases), [abstract](http://kyrs.github.io/files/counterfiet.pdf))**. As a data scientist at [Dataweave](https://dataweave.com/) , we a team of two members bagged the award for one of the most innovative AI solutions offered by Indian companies. Bangalore. 2018. 
+* **Nasscom AI game changer Award - 2018 ([Detail](https://kyrs.github.io/files/nasscom-ai-primer-2018.pdf), [abstract](http://kyrs.github.io/files/counterfiet.pdf))**. As a data scientist at [Dataweave](https://dataweave.com/) , we a team of two members bagged the award for one of the most innovative AI solutions offered by Indian companies. Bangalore. 2018. 
 
 * **Fifth Elephant - 2017 ([talk](https://www.youtube.com/watch?v=Gffq_S_od5E))** Represented Dataweave software pvt ltd. at India's biggest data science developer summit. Bangalore. 2017
 * **OpenSouce contribution ([commit](https://github.com/jolibrain/deepdetect/pull/103))** Integerated tensorflow within deepdetect supported framework. Jaipur. 2016.
