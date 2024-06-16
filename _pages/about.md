@@ -35,6 +35,6 @@ redirect_from:
 * 20 Nov 2019. Presented our work on [sign language genereation](https://www.youtube.com/watch?v=WsC9oyjJFY8) at [Bangalore Tech Summit - 2019](https://www.bengalurutechsummit.com/).
 
 # Academic Services
-* webmaster: ICMI 2023. 
+* webmaster: ICMI 2022. 
 * Reviewer: WACV 2020.
 
