@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kumar Shubham"
 title_separator          : "-"
 name                     : &name "Kumar Shubham"
-description              : &description "MS by Research, Data Science, IIIT - Bangalore"
+description              : &description "PhD - Electrical and Communication Dept, IISc - Bangalore"
 url                      : https://kyrs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kyrs/kyrs.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Kumar Shubham"
   avatar           : "shubham.jpg"
-  bio              : "MS by Research, Data Science, IIIT - Bangalore"
+  bio              : "PhD - Electrical and Communication Dept, IISc - Bangalore"
   location         : "Bangalore, India"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=JBb0tXMAAAAJ&hl=en"
-  email            : "kumar.shubham@iiitb.org"
+  email            : "shubhamkuma3@iisc.ac.in"
   uri              : 
   bitbucket        :
   codepen          :
@@ -104,13 +104,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "shubham_kyrs" 
   vine             :
   weibo            :
   xing             :
   youtube          : 
   wikipedia        :
-  goodreads        :   
+  goodreads        : 69308769-kumar-shubham
 
 
 # Reading Files
