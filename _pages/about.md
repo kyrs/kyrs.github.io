@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyrs/kyrs.github.io/master/images/shubham.jpg" alt="Photo" style="width: 450px;"/> 
-</p>
+
 
 # About Me
 * I am a PhD student in the Representation Learning Lab at [IISc - Bangalore](https://iisc.ac.in/), advised by Prof. [Prathosh A P](https://eecs.iisc.ac.in/people/prathosh-a-p/). My PhD research is supported by KIAC-IISc PhD fellowship. 
