@@ -13,7 +13,7 @@ author_profile: true
 Piyush Tiwary, <b>Kumar Shubham</b>, Vivek Kashyap, Prathosh AP <br><b><i> Uncertainty in Artificial Intelligence (UAI)</i>. 2024</b> <br>
 
 <b>[A deepfake-based study on facial expressiveness and social outcomes](https://www.nature.com/articles/s41598-024-53475-5)</b> <br> 
- Laetitia A Renier, <b>Kumar Shubham</b>, Rahil Satyanarayan Vijay, Swasti Shreya Mishra, Emmanuelle P Kleinlogel,<br> Dinesh Babu Jayagopi, Marianne Schmid Mast <br><b><i>Scientific Report, Nature Portfolio</i>. 2023</b> <br>
+ Laetitia A Renier, <b>Kumar Shubham</b>, Rahil Satyanarayan Vijay, Swasti Shreya Mishra, Emmanuelle P Kleinlogel, Dinesh Babu Jayagopi, Marianne Schmid Mast <br><b><i>Scientific Report, Nature Portfolio</i>. 2023</b> <br>
  
 <b>[Hybrid Unsupervised and Supervised Multitask Learning For Speech Recognition in Low Resource Languages](https://homepages.inf.ed.ac.uk/htang2/sigml/mlslp2021/index.html)</b> <br> 
  K.M Srinivasa Raghavan, <b>Kumar Shubham</b><br>
@@ -30,17 +30,17 @@ Dinesh Babu Jayagopi<br>
 
 <b>[A regularization on Lagrangian twin support vector regression](https://link.springer.com/article/10.1007/s13042-015-0361-6)</b> <br> 
 Muhammad Tanveer,<b> Kumar Shubham</b><br>
-<b><i>Journal : International Journal of Machine Learning and Cybernetics</i>. 2017. impact factor : 4.08 (2018)</b>.
+<b><i>Journal : International Journal of Machine Learning and Cybernetics</i>. 2017. impact factor : 3.6 (2023)</b>.
 
 <b>[Smooth twin support vector machines via unconstrained convex minimization](https://www.jstor.org/preview-page/10.2307/26194958)</b> <br> 
 Muhammad Tanveer,<b> Kumar Shubham</b><br>
-<b><i>Journal : Filomat</i>. 2017. impact factor : 0.76 (2019)</b>.
+<b><i>Journal : Filomat</i>. 2017. impact factor : 0.988 (2021)</b>.
 
 <b>[An efficient regularized K-nearest neighbor based weighted twin support vector regression](https://www.sciencedirect.com/science/article/abs/pii/S0950705115004384)</b> <br> 
 Muhammad Tanveer,<b> Kumar Shubham</b>, Mujahed Aldhaifallah, SS Ho<br>
-<b> <i>Journal : Knowledge-Based Systems</i>. 2016. impact factor : 5.101 (2018)</b>.
+<b> <i>Journal : Knowledge-Based Systems</i>. 2016. impact factor : 7.2 (2024)</b>.
 
 <b>[An efficient implicit regularized Lagrangian twin support vector regression](https://link.springer.com/article/10.1007/s10489-015-0728-0)</b> <br> 
 Muhammad Tanveer,<b> Kumar Shubham</b>, Mujahed Aldhaifallah, KS Nisar<br>
-<b><i>Journal : Applied intelligence</i> . 2016. impact factor : 0.988 (2018)</b>.
+<b><i>Journal : Applied intelligence</i> . 2016. impact factor : 5.3 (2021)</b>.
 
