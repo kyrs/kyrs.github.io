@@ -18,6 +18,7 @@ redirect_from:
 * I received my Bachelor’s degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
 
 # Recent News
+* 21 July 2024. Attending ICML 2024, Vienna, Austria.
 * 2 May 2024. One paper accepted in ICML 2024.
 * 25 April 2024. One paper accepted in UAI 2024.
 * 28 Jan 2024. One paper accepted in Scientific Report, Nature. 
