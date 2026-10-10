@@ -18,9 +18,11 @@ redirect_from:
 * I received my Bachelor’s degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
 
 # Recent News
-* 26 sept 2026. One paper accepted in Neurips - Main Track 2026. 
+* 28 Sept 2026. Joined Google deepmind as Student Researcher.
+* 26 sept 2026. One paper accepted in Neurips - Main Track 2026.
+* 1 Jun 2026.   Joined Adobe Research as Research scientist Intern. 
 * 28 Jan 2026. one paper accepted in TMLR.
-* 26 Jan 2026. One paper accepted in ICLR 2026.
+* 26 Jan 2026. One paper accepted in main track of ICLR 2026.
 * 25 Oct 2025. Two paper accepted in Reliable ML workshop - Neurips 2025.
 * 21 July 2024. Attending ICML 2024, Vienna, Austria.
 * 2 May 2024. One paper accepted in ICML 2024.
