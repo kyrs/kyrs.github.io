@@ -16,6 +16,9 @@ redirect_from:
 * I recieved my Master by research degree from [IIIT - Bangalore](https://www.iiitb.ac.in/), where I was advised by Prof. [Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi/) and Prof. [G. Srinivasaraghvan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan). 
 * Before joining IIIT, I have worked for two year as a data scientist at [Dataweave](https://dataweave.com/). 
 * I received my Bachelor’s degree from [LNMIIT - Jaipur](https://www.lnmiit.ac.in/). My undergraduate research advisor was [Prof M.Tanveer](http://www.iiti.ac.in/people/~mtanveer/).
+* Away from the keyboard, you'll find me reading **history and philosophy**, playing **table tennis**, and developing my **tennis** game. I draw lasting inspiration from Rudyard Kipling's [*If—*](https://www.poetryfoundation.org/poems/46473/if---), William Ernest Henley's [*Invictus*](https://www.poetryfoundation.org/poems/51642/invictus), and the [wisdom of Pythagoras](https://www.transcend.org/tms/2018/06/pythagoras-on-the-purpose-of-life-and-the-meaning-of-wisdom/).
+
+  
 
 # Recent News
 * 28 Sept 2026. Joined Google deepmind as Student Researcher.
